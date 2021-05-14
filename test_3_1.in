@@ -1,0 +1,26 @@
+#input
+    texto de prueba
+    e
+    -
+#output
+    texto de prueba
+    t-xto d- pru-ba
+#endtest
+
+#input
+    reemplazar un caracter
+    a
+    #
+#output
+    reemplazar un caracter
+    reempl#z#r un c#r#cter
+#endtest
+
+#input
+    15,29,12,14,2,3,11
+    ,
+    |
+#output
+    15,29,12,14,2,3,11
+    15|29|12|14|2|3|11
+#endtest

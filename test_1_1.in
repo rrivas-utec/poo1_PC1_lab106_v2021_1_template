@@ -1,0 +1,17 @@
+#input
+    12351230
+#output
+    23
+#endtest
+
+#input
+    103840182920284941
+#output
+    96
+#endtest
+
+#input
+    103840182920284941
+#output
+    96
+#endtest
