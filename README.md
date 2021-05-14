@@ -58,7 +58,7 @@ Escribir un programa que permita leer un texto que incluirá solamente caractere
 ```
 **Output**
 ```cpp
-96
+68
 ```
 
 ## Question #2 - El producto más grande (7 ptos)
