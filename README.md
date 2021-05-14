@@ -22,7 +22,7 @@
 
 ## Question #1 - Emparejando dígitos (7 points)
 
-Escribir un programa que permita leer un texto que incluirá solamente caracteres numéricos ('0','1','2','3','4','5','6','7','8','9'), el programa debe ubicar el dígito dentro del texto de mayor valor luego de ello debe cálcular cuanto se debe incrementar cada dígito para que todos tengan el mismo valor del dígito mayor, el programa deberá mostrar la suma de todos esos incrementos.
+Escribir un programa que permita leer un texto que incluirá solamente caracteres numéricos ('0','1','2','3','4','5','6','7','8','9'), el programa debe ubicar el dígito dentro del texto de mayor valor numérico, luego de ello debe cálcular cuanto se debe incrementar cada dígito para que todos tengan el mismo valor del dígito mayor, el programa deberá mostrar la suma de todos esos incrementos.
 
 #### Input Format
 
@@ -63,7 +63,7 @@ Escribir un programa que permita leer un texto que incluirá solamente caractere
 
 ## Question #2 - El producto más grande (7 ptos)
 
-Escribir un programa y una función y que reciba 2 parámetros: el primero un texto que solo incluirá caracteres numéricos y el segundo un valor numérico entero que represente una cantidad **`d`** de dígitos adyacentes (uno al lado de otro). El programa deberá buscar y retornar la secuencia de **`d`** dígitos adyacentes de modo que al multiplicar todos los dígitos de la secuencia se obtenga el mayor valor posible.
+Escribir un programa y una función y que reciba 2 parámetros: el primero, un texto que solo incluirá caracteres numéricos y el segundo, un valor numérico entero que represente una cantidad **`d`** de dígitos adyacentes (uno al lado de otro). El programa deberá buscar y retornar la secuencia de **`d`** dígitos adyacentes de modo que al multiplicar todos los dígitos de la secuencia se obtenga el mayor valor posible.
 
 #### Input Format
 
