@@ -22,7 +22,7 @@
 
 ## Question #1 - Emparejando dígitos (7 points)
 
-Escribir un programa que permita leer un texto que incluirá solomente caracteres numéricos ('0','1','2','3','4','5','6','7','8','9'), el programa debe ubicar el dígito dentro del texto de mayor valor luego de ello debe cálcular cuanto se debe incrementar cada dígito para que todos tengan el mismo valor del dígito mayor, el programa deberá mostrar la suma de todos esos incrementos.
+Escribir un programa que permita leer un texto que incluirá solamente caracteres numéricos ('0','1','2','3','4','5','6','7','8','9'), el programa debe ubicar el dígito dentro del texto de mayor valor luego de ello debe cálcular cuanto se debe incrementar cada dígito para que todos tengan el mismo valor del dígito mayor, el programa deberá mostrar la suma de todos esos incrementos.
 
 #### Input Format
 
