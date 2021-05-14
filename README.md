@@ -61,7 +61,7 @@ Escribir un programa que permita lea un texto que solo incluirá caracteres num�
 96
 ```
 
-## Question #2 - El producto más largo (7 ptos)
+## Question #2 - El producto más grande (7 ptos)
 
 Escribir un programa y una función y que reciba 2 valores: un texto que solo incluirá caracteres numéricos y un valor numérico entero que represente una cantidad **`d`** de dígitos adyacentes (uno al lado de otro).
 El programa deberá buscar y retornar la secuencia de **`d`** dígitos adyacentes de modo que al multiplicar esos dígitos se obtenga el mayor valor posible.
