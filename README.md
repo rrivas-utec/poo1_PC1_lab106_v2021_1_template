@@ -132,6 +132,7 @@ e
 #### Output Format
 
 ```cpp
+texto de prueba 
 t-xto d- pru-ba
 ```
 #### Ejemplo 1
@@ -143,6 +144,7 @@ a
 ```
 **Output**
 ```cpp
+reemplazar un caracter
 reempl#z#r un c#r#cter
 ```
 
@@ -155,5 +157,6 @@ reempl#z#r un c#r#cter
 ```
 **Output**
 ```cpp
+15,29,12,14,2,3,11
 15|29|12|14|2|3|11
 ```
