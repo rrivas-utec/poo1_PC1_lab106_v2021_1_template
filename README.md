@@ -22,7 +22,7 @@
 
 ## Question #1 - Emparejando dígitos (7 points)
 
-Escribir un programa que permita lea un texto que solo incluirá caracteres numéricos `('0','1','2','3','4','5','6','7','8','9')` debera ubicar el dígito dentro del texto de mayor valor luego de ellos debe calcula cuanto se debe incrementar cada dígito para que todos tengan el mismo valor del mayor, El programa debera devolver la suma de todos esos incrementos.
+Escribir un programa que permita leer un texto que incluirá solomente caracteres numéricos ('0','1','2','3','4','5','6','7','8','9'), el programa debe ubicar el dígito dentro del texto de mayor valor luego de ello debe cálcular cuanto se debe incrementar cada dígito para que todos tengan el mismo valor del dígito mayor, el programa deberá mostrar la suma de todos esos incrementos.
 
 #### Input Format
 
@@ -63,8 +63,7 @@ Escribir un programa que permita lea un texto que solo incluirá caracteres num�
 
 ## Question #2 - El producto más grande (7 ptos)
 
-Escribir un programa y una función y que reciba 2 valores: un texto que solo incluirá caracteres numéricos y un valor numérico entero que represente una cantidad **`d`** de dígitos adyacentes (uno al lado de otro).
-El programa deberá buscar y retornar la secuencia de **`d`** dígitos adyacentes de modo que al multiplicar esos dígitos se obtenga el mayor valor posible.
+Escribir un programa y una función y que reciba 2 parámetros: el primero un texto que solo incluirá caracteres numéricos y el segundo un valor numérico entero que represente una cantidad **`d`** de dígitos adyacentes (uno al lado de otro). El programa deberá buscar y retornar la secuencia de **`d`** dígitos adyacentes de modo que al multiplicar todos los dígitos de la secuencia se obtenga el mayor valor posible.
 
 #### Input Format
 
@@ -111,9 +110,9 @@ El programa deberá buscar y retornar la secuencia de **`d`** dígitos adyacente
 
 ## Question #3 - Reemplazar un caracter (6 points)
 
-Escribir una **función recursiva** cuyo nombre es `reemplazar_caracter` que reciba 3 parámetros el primero del tipo `std::string`, el segundo de tipo `char` que defina el **antiguo carácter** dentro del texto que será reemplazado y el tercero también de tipo `char` que defina el nuevo carácter, la función debe de permitir reemplazar el **antiguo carácter** por el **nuevo carácter**. La función retornará usando el tipo de retorno de la función el texto modificado. 
+Escribir una **función recursiva** cuyo nombre sea `reemplazar_caracter` que reciba 3 parámetros: el primero del tipo `std::string`, el segundo de tipo `char` que defina el **carácter actual** dentro del texto que será reemplazado y el tercero también de tipo `char` que defina el **nuevo carácter**, la función debe de permitir reemplazar el **carácter actual** por el **nuevo carácter**. La función retornará el texto modificado usando el tipo de retorno de la función. 
 
-**NOTA:** El texto original no debe ser modificado 
+**NOTA:** El texto original no debe ser modificado.
 
 #### Input Format
 
