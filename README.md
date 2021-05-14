@@ -109,7 +109,7 @@ El programa deberá buscar y retornar la secuencia de **`d`** dígitos adyacente
 8495738
 ```
 
-## Question #3 - Invertir un String de forma recursiva (6 points)
+## Question #3 - Reemplazar un caracter (6 points)
 
 Escribir una **función recursiva** cuyo nombre es `reemplazar_caracter` que reciba 3 parámetros el primero del tipo `std::string`, el segundo de tipo `char` que defina el **antiguo carácter** dentro del texto que será reemplazado y el tercero también de tipo `char` que defina el nuevo carácter, la función debe de permitir reemplazar el **antiguo carácter** por el **nuevo carácter**. La función retornará usando el tipo de retorno de la función el texto modificado. 
 
